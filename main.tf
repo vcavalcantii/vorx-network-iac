@@ -15,8 +15,9 @@ module "vpc" {
   tags = {
     Terraform = "true"
     Environment = "Production"
-    CC = "10502"
-    Team = "Devops"
+    CC = "10504"
+    OwnerSquad = "Osaka"
+    OwnerSRE = "Valfenda"
   }
 }
 
