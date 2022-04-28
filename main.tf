@@ -16,7 +16,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "Production"
     CC = "10504"
-    OwnerSquad = "Osaka"
+    OwnerSquad = "Namba"
     OwnerSRE = "Valfenda"
   }
 }
