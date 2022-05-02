@@ -14,7 +14,7 @@ module "vpc" {
 
   tags = {
     Terraform = "true"
-    Environment = "Production"
+    Environment = "Prod"
     CC = "10504"
     OwnerSquad = "Namba"
     OwnerSRE = "Konoha"
